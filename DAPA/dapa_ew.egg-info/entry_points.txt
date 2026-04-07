@@ -1,0 +1,2 @@
+[console_scripts]
+dapa = dapa.main:run

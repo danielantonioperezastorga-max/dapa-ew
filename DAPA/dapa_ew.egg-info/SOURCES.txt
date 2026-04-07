@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+dapa/__init__.py
+dapa/main.py
+dapa_ew.egg-info/PKG-INFO
+dapa_ew.egg-info/SOURCES.txt
+dapa_ew.egg-info/dependency_links.txt
+dapa_ew.egg-info/entry_points.txt
+dapa_ew.egg-info/requires.txt
+dapa_ew.egg-info/top_level.txt
